@@ -29,6 +29,6 @@ def get_common(arr1, arr2) -> List:
 
 
 if __name__ == '__main__':
-    print(get_common([1,2,3], [2,3,4,5]))
+    print(get_common([1, 2, 3], [2, 3, 4, 5]))
 
 
